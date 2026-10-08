@@ -1,0 +1,10 @@
+Valutazione: 29.5/30
+Suddivisione valutazioni:
+	⁃	Descrizione testuale dei requisiti e operazioni tipiche + Qualità della relazione: 2.5/3 (figure non leggibili quando la relazione è stampata ma possono essere lette zoomando sul PDF)
+	⁃	Progettazione Concettuale: 7.5/7.5
+	⁃	Ristrutturazione dello schema concettuale: 2/2
+	⁃	Schema Relazionale: 4/4
+	⁃	Implementazione in SQL: 2/2
+	⁃	Query: 7.5/7.5
+	⁃	Indici: 2/2
+	⁃	Acesso a DB da C: 2/2
