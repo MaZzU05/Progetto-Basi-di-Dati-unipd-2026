@@ -11,8 +11,8 @@ Corso di Laurea in Informatica — **Università degli Studi di Padova** (A.A. 2
 
 ## 👥 Autori
 
-* **Francesco Mazzurana** — [GitHub](https://github.com/MaZzU05)
-* **Gianmaria Grinovero** — [GitHub](https://github.com/giangrinovero)
+* **Francesco Mazzurana** — [GitHub](https://github.com/MaZzU05);
+* **Gianmaria Grinovero** — [GitHub](https://github.com/giangrinovero);
 
 ---
 
